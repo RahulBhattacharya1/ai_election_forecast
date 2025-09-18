@@ -1,0 +1,25 @@
+{
+  "feature_cols": [
+    "polls_per_week",
+    "avg_sample",
+    "avg_grade",
+    "avg_transparency",
+    "avg_pollscore",
+    "margin_lag1",
+    "margin_lag2",
+    "margin_lag3",
+    "margin_lag4",
+    "margin_lag5",
+    "margin_lag6",
+    "margin_lag7",
+    "margin_lag8",
+    "margin_rollmean_3",
+    "margin_rollmean_5",
+    "margin_rollmean_8"
+  ],
+  "train_weeks": 36,
+  "test_weeks": 10,
+  "last_train_date": "2024-06-03",
+  "mae": 1.1721256437772012,
+  "r2": -0.6977368496462497
+}
